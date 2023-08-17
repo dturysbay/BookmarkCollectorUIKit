@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "goto-link-icon.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
